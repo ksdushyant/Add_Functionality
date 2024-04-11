@@ -1,0 +1,14 @@
+C:\Users\Dushyant.K_INT1584\source\repos\prac_solution\prac\bin\Debug\net8.0\prac.exe
+C:\Users\Dushyant.K_INT1584\source\repos\prac_solution\prac\bin\Debug\net8.0\prac.deps.json
+C:\Users\Dushyant.K_INT1584\source\repos\prac_solution\prac\bin\Debug\net8.0\prac.runtimeconfig.json
+C:\Users\Dushyant.K_INT1584\source\repos\prac_solution\prac\bin\Debug\net8.0\prac.dll
+C:\Users\Dushyant.K_INT1584\source\repos\prac_solution\prac\bin\Debug\net8.0\prac.pdb
+C:\Users\Dushyant.K_INT1584\source\repos\prac_solution\prac\obj\Debug\net8.0\prac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dushyant.K_INT1584\source\repos\prac_solution\prac\obj\Debug\net8.0\prac.AssemblyInfoInputs.cache
+C:\Users\Dushyant.K_INT1584\source\repos\prac_solution\prac\obj\Debug\net8.0\prac.AssemblyInfo.cs
+C:\Users\Dushyant.K_INT1584\source\repos\prac_solution\prac\obj\Debug\net8.0\prac.csproj.CoreCompileInputs.cache
+C:\Users\Dushyant.K_INT1584\source\repos\prac_solution\prac\obj\Debug\net8.0\prac.dll
+C:\Users\Dushyant.K_INT1584\source\repos\prac_solution\prac\obj\Debug\net8.0\refint\prac.dll
+C:\Users\Dushyant.K_INT1584\source\repos\prac_solution\prac\obj\Debug\net8.0\prac.pdb
+C:\Users\Dushyant.K_INT1584\source\repos\prac_solution\prac\obj\Debug\net8.0\prac.genruntimeconfig.cache
+C:\Users\Dushyant.K_INT1584\source\repos\prac_solution\prac\obj\Debug\net8.0\ref\prac.dll
